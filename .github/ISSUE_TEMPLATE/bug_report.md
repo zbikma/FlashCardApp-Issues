@@ -1,5 +1,4 @@
-## Add a title
-Replace `[BUG]` with a short, descriptive title of the issue.
+
 ---
 name: Bug Report
 about: Create a report to help us improve
@@ -8,6 +7,8 @@ labels: bug
 assignees: ''
 
 ---
+## Add a title
+Replace `[BUG]` with a short, descriptive title of the issue.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
