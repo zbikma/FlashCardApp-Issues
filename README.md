@@ -12,7 +12,7 @@ Please provide as much detail as possible to help us understand and resolve the 
 
 # AWS Learning and Serverless FlashCardApp
 
-## About This Repository
+## About FlashCardApp
 
 FlashCardApp serves as my journey into learning AWS services through practical implementation. What started as an experiment in exploring AWS services has now evolved into a serverless web app where I store notes and continue building more features. The eventual goal is to integrate AI and LLM (Large Language Models) capabilities, allowing me to utilize even more AWS services as the project grows.
 
