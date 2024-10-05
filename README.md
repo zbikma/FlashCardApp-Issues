@@ -55,9 +55,9 @@ Currently, this project is focused on building a **serverless web application** 
 - **Database Migration**: While the project currently relies on a CSV file as the source for flashcards, we plan to migrate to a relational database (such as Amazon RDS) once the dataset grows.
 - **More AWS Services**: The project will expand to use additional AWS services such as **AWS DynamoDB** for NoSQL storage or **Amazon RDS** for relational data storage.
 
-### Collaboration with ZCoder GPT
+### Collaboration with ServerlessWebapp GPT
 
-I co-program with my custom AI assistant, **ZCoder GPT**. This GPT model is fine-tuned to work collaboratively, enhancing my coding productivity and serving as a personalized coding partner. What I find fascinating about AI and LLMs is their flexibility in adapting to different tasks, allowing me to create specialized agents for specific project needs.
+I co-program with my custom AI assistant, **ServerlessWebapp GPT**[https://chatgpt.com/g/g-SGZoTjUKC-serverlesswebapp]. This GPT model is fine-tuned to work collaboratively, enhancing my coding productivity and serving as a personalized coding partner. What I find fascinating about AI and LLMs is their flexibility in adapting to different tasks, allowing me to create specialized agents for specific project needs.
 
 ### Conclusion
 
