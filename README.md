@@ -57,7 +57,7 @@ Currently, this project is focused on building a **serverless web application** 
 
 ### Collaboration with ServerlessWebapp GPT
 
-I co-program with my custom AI assistant, **ServerlessWebapp GPT**[https://chatgpt.com/g/g-SGZoTjUKC-serverlesswebapp]. This GPT model is fine-tuned to work collaboratively, enhancing my coding productivity and serving as a personalized coding partner. What I find fascinating about AI and LLMs is their flexibility in adapting to different tasks, allowing me to create specialized agents for specific project needs.
+I co-program with my custom AI assistant, [**ServerlessWebapp GPT**](https://chatgpt.com/g/g-SGZoTjUKC-serverlesswebapp). This GPT model is fine-tuned to work collaboratively, enhancing my coding productivity and serving as a personalized coding partner. What I find fascinating about AI and LLMs is their flexibility in adapting to different tasks, allowing me to create specialized agents for specific project needs.
 
 ### Conclusion
 
