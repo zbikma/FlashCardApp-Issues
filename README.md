@@ -61,8 +61,7 @@ I co-program with my custom AI assistant, [**ServerlessWebapp GPT**](https://cha
 
 ### Conclusion
 
-This repository is my ongoing learning process, blending AWS services with modern web development practices. The combination of serverless architecture, AI collaboration, and cloud infrastructure makes this an exciting and evolving project.
+This project is my ongoing learning process, blending AWS services with modern web development practices. The combination of serverless architecture, AI collaboration, and cloud infrastructure makes this an exciting and evolving project.
 
-Feel free to explore the code, contribute, or reach out with any suggestions!
 
 
